@@ -14,6 +14,5 @@ const startServer = async () => {
         console.log("Listening on port", port);
     });
 };
-
-startServer();
+ module.exports =app;
 
